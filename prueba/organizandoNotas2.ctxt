@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=organizandoNotas2
+comment1.params=est
+comment1.target=organizandoNotas2(int)
+comment2.params=
+comment2.target=int[]\ arreglo()
+comment3.params=nota\ estudiante\ a
+comment3.target=void\ a\u00F1adirNotas(int,\ int,\ int[])
+comment4.params=a
+comment4.target=double\ prom(int[])
+comment5.params=a
+comment5.target=double\ promApro(int[])
+comment6.params=a
+comment6.target=double\ repro(int[])
+comment7.params=a
+comment7.target=double\ apro(int[])
+comment8.params=a
+comment8.target=double\ mayor(int[])
+numComments=9
